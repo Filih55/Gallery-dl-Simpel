@@ -81,7 +81,7 @@ Twitter List
 
 Simply enter the URL or username, and the script will run gallery-dl with the appropriate parameters.
 
-🍪 Cookies (for private content)
+##🍪 Cookies (for private content)
 Some features (Liked Posts, Stories, Saved Posts) require authentication cookies.
 
 How to set up cookies:
@@ -96,7 +96,7 @@ Save the file as Config\cookies.txt (or place it in the Config folder)
 
 Alternatively, use the Settings → Update / Set Cookie File menu to copy a cookie file from another location.
 
-🛠️ Settings Menu
+##🛠️ Settings Menu
 Update / Set Cookie File – Manage cookies.txt
 
 Clear Download Archive – Delete all archive files (force re‑download everything)
@@ -111,7 +111,7 @@ Open Config Folder – Open Config folder
 
 View Current Configuration – Show summary of paths, arguments, and archive status
 
-📂 Auto‑created Folder Structure
+##📂 Auto‑created Folder Structure
 Gallery-dl ULTIMATE Pro v2.0/
 │
 ├── Gallery-dl ULTIMATE Pro v2.0.bat
@@ -147,12 +147,12 @@ Gallery-dl ULTIMATE Pro v2.0/
 └── Logs/
     └── session_20250423_1430.log
 
-📜 Logging
+##📜 Logging
 Every session is logged to Logs/session_YYYYMMDD_HHMM.log. Logs contain timestamps, download actions, and error messages.
 
 View logs via the View Download Logs menu or by opening the Logs folder directly.
 
-⚠️ Important Notes
+##⚠️ Important Notes
 This script is just a wrapper for gallery-dl. Please respect the gallery-dl license and the terms of service of each platform.
 
 Use responsibly – do not excessively scrape or violate any platform's rules.
@@ -161,7 +161,7 @@ Some features (e.g., Instagram Stories) heavily depend on valid cookies and may 
 
 For gallery-dl specific issues, refer to the official documentation.
 
-🤝 Contributing
+##🤝 Contributing
 Feel free to fork, open issues, or submit pull requests. Ideas for improvement:
 
 Support for more platforms (Pixiv, Flickr, DeviantArt)
@@ -172,10 +172,10 @@ Integrate yt-dlp for richer YouTube features
 
 Multi‑threaded parallel downloads
 
-📄 License
+##📄 License
 MIT License – free to use and modify. However, you must comply with each platform's terms of service when downloading content.
 
-🙏 Credits
+##🙏 Credits
 gallery-dl – The core engine
 
-Made with ❤️ for the digital archiving community
+###Made with ❤️ for the digital archiving community
