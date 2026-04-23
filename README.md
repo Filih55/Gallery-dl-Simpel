@@ -80,6 +80,7 @@ User Timeline
 Twitter List
 
 Simply enter the URL or username, and the script will run gallery-dl with the appropriate parameters.
+---
 
 ## 🍪 Cookies (for private content)
 Some features (Liked Posts, Stories, Saved Posts) require authentication cookies.
@@ -110,6 +111,7 @@ Open Downloads Folder – Open Downloads in Explorer
 Open Config Folder – Open Config folder
 
 View Current Configuration – Show summary of paths, arguments, and archive status
+---
 
 ## 📂 Auto‑created Folder Structure
 Gallery-dl ULTIMATE Pro v2.0/
@@ -146,11 +148,13 @@ Gallery-dl ULTIMATE Pro v2.0/
 │
 └── Logs/
     └── session_20250423_1430.log
+---
 
 ## 📜 Logging
 Every session is logged to Logs/session_YYYYMMDD_HHMM.log. Logs contain timestamps, download actions, and error messages.
 
 View logs via the View Download Logs menu or by opening the Logs folder directly.
+---
 
 ## ⚠️ Important Notes
 This script is just a wrapper for gallery-dl. Please respect the gallery-dl license and the terms of service of each platform.
@@ -160,6 +164,7 @@ Use responsibly – do not excessively scrape or violate any platform's rules.
 Some features (e.g., Instagram Stories) heavily depend on valid cookies and may break if the platform changes its layout.
 
 For gallery-dl specific issues, refer to the official documentation.
+---
 
 ## 🤝 Contributing
 Feel free to fork, open issues, or submit pull requests. Ideas for improvement:
@@ -171,11 +176,14 @@ Simple GUI mode
 Integrate yt-dlp for richer YouTube features
 
 Multi‑threaded parallel downloads
+---
 
 ## 📄 License
 MIT License – free to use and modify. However, you must comply with each platform's terms of service when downloading content.
+---
 
 ## 🙏 Credits
 gallery-dl – The core engine
+---
 
 ###Made with ❤️ for the digital archiving community
